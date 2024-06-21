@@ -1,0 +1,264 @@
+text,label
+"Félicitations ! Vous avez gagné un iPhone. Cliquez ici pour le réclamer.",spam
+"Bonjour, comment ça va ?",ham
+"Vous avez été sélectionné pour un prix spécial. Réclamez-le maintenant !",spam
+"On se voit pour le déjeuner ?",ham
+"Appelez ce numéro pour récupérer votre prix.",spam
+"Merci pour votre achat. Votre commande a été expédiée.",ham
+"Profitez de cette offre exclusive avant qu'elle n'expire.",spam
+"Salut, tu viens à la fête ce soir ?",ham
+"Gagnez un voyage gratuit en participant à notre sondage.",spam
+"Nous vous informons que votre facture est prête.",ham
+"Cliquez ici pour recevoir votre carte cadeau gratuite.",spam
+"Votre rendez-vous chez le médecin est confirmé pour demain.",ham
+"Recevez des réductions incroyables sur vos achats en ligne.",spam
+"Merci de nous avoir contactés. Nous reviendrons vers vous bientôt.",ham
+"Votre compte a été compromis. Cliquez ici pour sécuriser votre compte.",spam
+"Je voulais juste dire bonjour et prendre de vos nouvelles.",ham
+"Félicitations, vous avez gagné un bon d'achat de 100 euros !",spam
+"Pouvez-vous me rappeler quand vous aurez un moment ?",ham
+"Participez à notre concours et gagnez des prix fantastiques.",spam
+"Votre colis a été expédié et est en route.",ham
+"Recevez des échantillons gratuits de nos nouveaux produits.",spam
+"Je suis désolé de ne pas avoir répondu plus tôt.",ham
+"Vous avez reçu un nouveau message vocal. Cliquez pour écouter.",spam
+"Merci pour votre patience. Nous traitons votre demande.",ham
+"Gagnez un iPad en participant à notre quiz en ligne.",spam
+"J'ai apprécié notre conversation d'hier.",ham
+"Offre spéciale : 50% de réduction sur tous les produits.",spam
+"Votre réservation a été confirmée.",ham
+"Vous avez un nouveau message dans votre boîte de réception.",spam
+"Je voulais vous remercier pour votre aide.",ham
+"Participez à notre étude de marché et recevez des récompenses.",spam
+"Votre candidature a été retenue.",ham
+"Ne manquez pas cette opportunité unique de gagner gros.",spam
+"J'ai hâte de te revoir bientôt.",ham
+"Recevez des conseils gratuits pour améliorer votre santé.",spam
+"Nous avons bien reçu votre demande de remboursement.",ham
+"Vous avez gagné un an d'abonnement gratuit. Réclamez-le maintenant.",spam
+"Votre paiement a été accepté. Merci pour votre achat.",ham
+"Obtenez des devis gratuits pour vos projets de rénovation.",spam
+"Je suis disponible pour discuter de votre proposition.",ham
+"Cliquez ici pour vérifier l'état de votre colis.",spam
+"Je suis très content de notre partenariat.",ham
+"Félicitations ! Vous avez gagné un voyage tout inclus.",spam
+"Pouvez-vous m'envoyer les documents dès que possible ?",ham
+"Votre solde est insuffisant. Veuillez recharger votre compte.",spam
+"Je vous confirme notre rendez-vous pour demain.",ham
+"Recevez des offres exclusives directement dans votre boîte mail.",spam
+"Merci pour votre retour. Nous apprécions vos commentaires.",ham
+"Ne manquez pas notre vente flash ce week-end.",spam
+"Je voulais juste te dire que tu me manques.",ham
+"Gagnez une carte-cadeau en répondant à ce sondage rapide.",spam
+"Votre abonnement a été renouvelé avec succès.",ham
+"Obtenez une assurance à bas prix en quelques minutes.",spam
+"Je voulais discuter de nos plans pour les vacances.",ham
+"Participez à notre tirage au sort pour gagner des prix incroyables.",spam
+"Merci pour votre fidélité. Vous êtes un client précieux.",ham
+"Vous avez reçu une alerte de sécurité. Cliquez ici pour en savoir plus.",spam
+"Je voulais vous remercier pour votre générosité.",ham
+"Gagnez une séance photo gratuite en participant à notre concours.",spam
+"Votre réservation de vol a été confirmée.",ham
+"Recevez des notifications instantanées sur les meilleures offres.",spam
+"Je vous envoie les détails par mail.",ham
+"Votre compte est en danger. Cliquez ici pour le sécuriser.",spam
+"Merci pour votre confiance. Nous sommes heureux de vous servir.",ham
+"Ne manquez pas cette chance de gagner un iPhone.",spam
+"Je voulais simplement savoir comment vous allez.",ham
+"Profitez de cette promotion limitée dans le temps.",spam
+"Je suis heureux de vous annoncer que votre projet a été accepté.",ham
+"Vous avez gagné un bon de réduction. Cliquez ici pour l'utiliser.",spam
+"Je suis désolé pour le retard dans ma réponse.",ham
+"Recevez des offres personnalisées en vous inscrivant à notre newsletter.",spam
+"Merci pour votre demande. Nous la traitons actuellement.",ham
+"Participez à notre enquête et recevez une récompense.",spam
+"Votre candidature a été acceptée.",ham
+"Gagnez des produits gratuits en participant à notre programme de testeurs.",spam
+"Je voulais vous inviter à notre événement.",ham
+"Ne manquez pas cette opportunité unique. Cliquez ici pour plus de détails.",spam
+"Votre livraison est en cours. Suivez-la ici.",ham
+"Recevez des conseils gratuits pour économiser de l'argent.",spam
+"Je vous remercie pour votre patience.",ham
+"Gagnez un an de streaming gratuit. Inscrivez-vous maintenant.",spam
+"Votre rendez-vous a été confirmé.",ham
+"Recevez des mises à jour exclusives sur nos produits.",spam
+"Je voulais te remercier pour ton aide précieuse.",ham
+"Gagnez des bons d'achat en participant à notre programme de fidélité.",spam
+"Votre commande a été expédiée.",ham
+"Profitez de cette offre spéciale avant qu'elle n'expire.",spam
+"Je suis disponible pour une réunion cette semaine.",ham
+"Recevez des échantillons gratuits de nos nouveaux produits.",spam
+"Je suis désolé de ne pas avoir répondu plus tôt.",ham
+"Vous avez reçu un nouveau message vocal. Cliquez pour écouter.",spam
+"Merci pour votre patience. Nous traitons votre demande.",ham
+"Gagnez un iPad en participant à notre quiz en ligne.",spam
+"J'ai apprécié notre conversation d'hier.",ham
+"Offre spéciale : 50% de réduction sur tous les produits.",spam
+"Votre réservation a été confirmée.",ham
+"Vous avez un nouveau message dans votre boîte de réception.",spam
+"Je voulais vous remercier pour votre aide.",ham
+"Participez à notre étude de marché et recevez des récompenses.",spam
+"Votre candidature a été retenue.",ham
+"Ne manquez pas cette opportunité unique de gagner gros.",spam
+"J'ai hâte de te revoir bientôt.",ham
+"Recevez des conseils gratuits pour améliorer votre santé.",spam
+"Nous avons bien reçu votre demande de remboursement.",ham
+"Vous avez gagné un an d'abonnement gratuit. Réclamez-le maintenant.",spam
+"Votre paiement a été accepté. Merci pour votre achat.",ham
+"Obtenez des devis gratuits pour vos projets de rénovation.",spam
+"Je suis disponible pour discuter de votre proposition.",ham
+"Cliquez ici pour vérifier l'état de votre colis.",spam
+"Je suis très content de notre partenariat.",ham
+"Félicitations ! Vous avez gagné un voyage tout inclus.",spam
+"Pouvez-vous m'envoyer les documents dès que possible ?",ham
+"Votre solde est insuffisant. Veuillez recharger votre compte.",spam
+"Je vous confirme notre rendez-vous pour demain.",ham
+"Recevez des offres exclusives directement dans votre boîte mail.",spam
+"Merci pour votre retour. Nous apprécions vos commentaires.",ham
+"Ne manquez pas notre vente flash ce week-end.",spam
+"Je voulais juste te dire que tu me manques.",ham
+"Gagnez une carte-cadeau en répondant à ce sondage rapide.",spam
+"Votre abonnement a été renouvelé avec succès.",ham
+"Obtenez une assurance à bas prix en quelques minutes.",spam
+"Je voulais discuter de nos plans pour les vacances.",ham
+"Participez à notre tirage au sort pour gagner des prix incroyables.",spam
+"Merci pour votre fidélité. Vous êtes un client précieux.",ham
+"Vous avez reçu une alerte de sécurité. Cliquez ici pour en savoir plus.",spam
+"Je voulais vous remercier pour votre générosité.",ham
+"Gagnez une séance photo gratuite en participant à notre concours.",spam
+"Votre réservation de vol a été confirmée.",ham
+"Recevez des notifications instantanées sur les meilleures offres.",spam
+"Je vous envoie les détails par mail.",ham
+"Votre compte est en danger. Cliquez ici pour le sécuriser.",spam
+"Merci pour votre confiance. Nous sommes heureux de vous servir.",ham
+"Ne manquez pas cette chance de gagner un iPhone.",spam
+"Je voulais simplement savoir comment vous allez.",ham
+"Profitez de cette promotion limitée dans le temps.",spam
+"Je suis heureux de vous annoncer que votre projet a été accepté.",ham
+"Vous avez gagné un bon de réduction. Cliquez ici pour l'utiliser.",spam
+"Je suis désolé pour le retard dans ma réponse.",ham
+"Recevez des offres personnalisées en vous inscrivant à notre newsletter.",spam
+"Merci pour votre demande. Nous la traitons actuellement.",ham
+"Participez à notre enquête et recevez une récompense.",spam
+"Votre candidature a été acceptée.",ham
+"Gagnez des produits gratuits en participant à notre programme de testeurs.",spam
+"Je voulais vous inviter à notre événement.",ham
+"Ne manquez pas cette opportunité unique. Cliquez ici pour plus de détails.",spam
+"Votre livraison est en cours. Suivez-la ici.",ham
+"Recevez des conseils gratuits pour économiser de l'argent.",spam
+"Je vous remercie pour votre patience.",ham
+"Gagnez un an de streaming gratuit. Inscrivez-vous maintenant.",spam
+"Votre rendez-vous a été confirmé.",ham
+"Recevez des mises à jour exclusives sur nos produits.",spam
+"Je voulais te remercier pour ton aide précieuse.",ham
+"Gagnez des bons d'achat en participant à notre programme de fidélité.",spam
+"Votre commande a été expédiée.",ham
+"Profitez de cette offre spéciale avant qu'elle n'expire.",spam
+"Félicitations ! Vous avez gagné un iPhone. Cliquez ici pour le réclamer.",spam
+"Bonjour, comment ça va ?",ham
+"Vous avez été sélectionné pour un prix spécial. Réclamez-le maintenant !",spam
+"On se voit pour le déjeuner ?",ham
+"Appelez ce numéro pour récupérer votre prix.",spam
+"Merci pour votre achat. Votre commande a été expédiée.",ham
+"Profitez de cette offre exclusive avant qu'elle n'expire.",spam
+"Salut, tu viens à la fête ce soir ?",ham
+"Gagnez un voyage gratuit en participant à notre sondage.",spam
+"Nous vous informons que votre facture est prête.",ham
+"Cliquez ici pour recevoir votre carte cadeau gratuite.",spam
+"Votre rendez-vous chez le médecin est confirmé pour demain.",ham
+"Recevez des réductions incroyables sur vos achats en ligne.",spam
+"Merci de nous avoir contactés. Nous reviendrons vers vous bientôt.",ham
+"Votre compte a été compromis. Cliquez ici pour sécuriser votre compte.",spam
+"Je voulais juste dire bonjour et prendre de vos nouvelles.",ham
+"Félicitations, vous avez gagné un bon d'achat de 100 euros !",spam
+"Pouvez-vous me rappeler quand vous aurez un moment ?",ham
+"Participez à notre concours et gagnez des prix fantastiques.",spam
+"Votre colis a été expédié et est en route.",ham
+"Recevez des échantillons gratuits de nos nouveaux produits.",spam
+"Je suis désolé de ne pas avoir répondu plus tôt.",ham
+"Vous avez reçu un nouveau message vocal. Cliquez pour écouter.",spam
+"Merci pour votre patience. Nous traitons votre demande.",ham
+"Gagnez un iPad en participant à notre quiz en ligne.",spam
+"J'ai apprécié notre conversation d'hier.",ham
+"Offre spéciale : 50% de réduction sur tous les produits.",spam
+"Votre réservation a été confirmée.",ham
+"Vous avez un nouveau message dans votre boîte de réception.",spam
+"Je voulais vous remercier pour votre aide.",ham
+"Participez à notre étude de marché et recevez des récompenses.",spam
+"Votre candidature a été retenue.",ham
+"Ne manquez pas cette opportunité unique de gagner gros.",spam
+"J'ai hâte de te revoir bientôt.",ham
+"Recevez des conseils gratuits pour améliorer votre santé.",spam
+"Nous avons bien reçu votre demande de remboursement.",ham
+"Vous avez gagné un an d'abonnement gratuit. Réclamez-le maintenant.",spam
+"Votre paiement a été accepté. Merci pour votre achat.",ham
+"Obtenez des devis gratuits pour vos projets de rénovation.",spam
+"Je suis disponible pour discuter de votre proposition.",ham
+"Cliquez ici pour vérifier l'état de votre colis.",spam
+"Je suis très content de notre partenariat.",ham
+"Félicitations ! Vous avez gagné un voyage tout inclus.",spam
+"Pouvez-vous m'envoyer les documents dès que possible ?",ham
+"Votre solde est insuffisant. Veuillez recharger votre compte.",spam
+"Je vous confirme notre rendez-vous pour demain.",ham
+"Recevez des offres exclusives directement dans votre boîte mail.",spam
+"Merci pour votre retour. Nous apprécions vos commentaires.",ham
+"Ne manquez pas notre vente flash ce week-end.",spam
+"Je voulais juste te dire que tu me manques.",ham
+"Gagnez une carte-cadeau en répondant à ce sondage rapide.",spam
+"Votre abonnement a été renouvelé avec succès.",ham
+"Obtenez une assurance à bas prix en quelques minutes.",spam
+"Je voulais discuter de nos plans pour les vacances.",ham
+"Participez à notre tirage au sort pour gagner des prix incroyables.",spam
+"Merci pour votre fidélité. Vous êtes un client précieux.",ham
+"Vous avez reçu une alerte de sécurité. Cliquez ici pour en savoir plus.",spam
+"Je voulais vous remercier pour votre générosité.",ham
+"Gagnez une séance photo gratuite en participant à notre concours.",spam
+"Votre réservation de vol a été confirmée.",ham
+"Recevez des notifications instantanées sur les meilleures offres.",spam
+"Je vous envoie les détails par mail.",ham
+"Votre compte est en danger. Cliquez ici pour le sécuriser.",spam
+"Merci pour votre confiance. Nous sommes heureux de vous servir.",ham
+"Ne manquez pas cette chance de gagner un iPhone.",spam
+"Je voulais simplement savoir comment vous allez.",ham
+"Profitez de cette promotion limitée dans le temps.",spam
+"Je suis heureux de vous annoncer que votre projet a été accepté.",ham
+"Vous avez gagné un bon de réduction. Cliquez ici pour l'utiliser.",spam
+"Je suis désolé pour le retard dans ma réponse.",ham
+"Recevez des offres personnalisées en vous inscrivant à notre newsletter.",spam
+"Merci pour votre demande. Nous la traitons actuellement.",ham
+"Participez à notre enquête et recevez une récompense.",spam
+"Votre candidature a été acceptée.",ham
+"Gagnez des produits gratuits en participant à notre programme de testeurs.",spam
+"Je voulais vous inviter à notre événement.",ham
+"Ne manquez pas cette opportunité unique. Cliquez ici pour plus de détails.",spam
+"Votre livraison est en cours. Suivez-la ici.",ham
+"Recevez des conseils gratuits pour économiser de l'argent.",spam
+"Je vous remercie pour votre patience.",ham
+"Gagnez un an de streaming gratuit. Inscrivez-vous maintenant.",spam
+"Votre rendez-vous a été confirmé.",ham
+"Recevez des mises à jour exclusives sur nos produits.",spam
+"Je voulais te remercier pour ton aide précieuse.",ham
+"Gagnez des bons d'achat en participant à notre programme de fidélité.",spam
+"Votre commande a été expédiée.",ham
+"Profitez de cette offre spéciale avant qu'elle n'expire.",spam
+"Rappel : réunion avec le PDG à 10h demain.",important
+"Urgent : Veuillez vérifier vos informations de compte.",important
+"Projet X : Mise à jour de l'état et prochaines étapes.",important
+"Réunion de suivi : planification pour la semaine prochaine.",important
+"Approbation requise pour la proposition de budget.",important
+"Planification stratégique : veuillez lire le document ci-joint.",important
+"Réunion d'équipe à 14h aujourd'hui. Présence requise.",important
+"Prochaine échéance de projet : détails à finaliser.",important
+"Confirmez votre participation à la conférence annuelle.",important
+"Demande de mise à jour de statut pour le projet Y.",important
+"Rappel : Formation obligatoire demain à 9h.",important
+"Compte rendu de la réunion de direction : à lire absolument.",important
+"Feedback requis sur le document joint.",important
+"Invitation à l'événement de réseautage : inscrivez-vous maintenant.",important
+"Approbation de la direction requise pour la nouvelle politique.",important
+"Demande urgente de documents pour la réunion.",important
+"Notification : changement de date de la réunion.",important
+"Agenda de la réunion de demain : veuillez préparer vos points.",important
+"Révision annuelle des performances : formulaire à remplir.",important
+"Veuillez finaliser la présentation pour demain.",important
+"Note de service : modification des procédures internes.",important
